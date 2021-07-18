@@ -844,7 +844,7 @@ textarea,
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
   font-weight: 700;
   text-align: center;
   transition: all 0.3s ease-in-out;
@@ -855,7 +855,7 @@ textarea,
   height: 2px;
   flex-grow: 1;
   transition: all 0.3s ease-in-out;
-  background: linear-gradient(to left, var(--main-color) 50%, transparent);
+  background: linear-gradient(to left, rgb(255, 255, 255) 50%, transparent);
   margin-right: 5px;
 }
 .name-3l27Hl:after {
@@ -863,7 +863,7 @@ textarea,
   height: 2px;
   flex-grow: 1;
   transition: all 0.3s ease-in-out;
-  background: linear-gradient(to right, var(--main-color) 50%, transparent);
+  background: linear-gradient(to right, rgb(255, 255, 255) 50%, transparent);
   margin-left: 5px;
 }
 .mainContent-2h-GEV:hover .name-3l27Hl {
@@ -871,7 +871,7 @@ textarea,
 }
 
 .sidebar-2K8pFh .containerDefault-3tr_sE .wrapper-PY0fhH .name-3l27Hl, .sidebar-2K8pFh .containerDragAfter-Zk9oyx .wrapper-PY0fhH .name-3l27Hl, .sidebar-2K8pFh .containerDragBefore-1YqewQ .wrapper-PY0fhH .name-3l27Hl, .sidebar-2K8pFh .containerUserOver-98-yc7 .wrapper-PY0fhH .name-3l27Hl {
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
 }
 
 .children-L002ao {
@@ -887,12 +887,12 @@ textarea,
 }
 
 .addButtonIcon-2CbG1X {
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
   opacity: 0.7;
   transition: all 0.3s ease-in-out;
 }
 .addButtonIcon-2CbG1X:hover {
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
   opacity: 1;
 }
 
