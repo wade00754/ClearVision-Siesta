@@ -994,7 +994,7 @@ textarea,
 }
 .wrapper-2jXpOf.modeSelected-346R90 .content-1x5b-n:after {
   right: 0;
-  background: var(--main-color);
+  background: rgb(255, 255, 255);
   -webkit-animation: cv-channel-select 0.3s ease-in-out;
           animation: cv-channel-select 0.3s ease-in-out;
 }
