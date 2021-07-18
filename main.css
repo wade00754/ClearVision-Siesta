@@ -1012,11 +1012,11 @@ textarea,
   opacity: 1;
 }
 .wrapper-2jXpOf.modeConnected-3IsKId .content-1x5b-n .mainContent-u_9PKf .name-23GUGE {
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
   text-shadow: 0 0 3px;
 }
 .wrapper-2jXpOf.modeConnected-3IsKId .content-1x5b-n .mainContent-u_9PKf .icon-1DeIlz {
-  color: var(--main-color);
+  color: rgb(255, 255, 255);
   filter: drop-shadow(0 0 3px);
 }
 .wrapper-2jXpOf.modeMuted-onO3r- .content-1x5b-n .mainContent-u_9PKf .icon-1DeIlz,
