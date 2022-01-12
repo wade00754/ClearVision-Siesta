@@ -1,0 +1,112 @@
+/**
+ * @name Siesta
+ * @author Kirschblute
+ * @version 6
+ * @description シエスタ Source visit:https://wade00754.github.io/ClearVision-Siesta/main.css
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.gitlab.io
+ * @invite 2fKpjAR
+*/
+
+@import url(https://wade00754.github.io/ClearVision-Siesta/main.css);
+
+:root {
+	
+	/* ACCENT COLORS */
+	--main-color: #818181;
+	--hover-color: #404040;
+	--success-color: #43b581;
+	--danger-color: #982929;
+	--url-color: #0094FF;
+	
+	/* STATUS COLORS */
+	--online-color: #43b581;
+	--idle-color: #faa61a;
+	--dnd-color: #982929;
+	--streaming-color: #593695;
+	--offline-color: #808080;
+	
+	/* GENERAL */
+	--main-font: Whitney;
+	--code-font: Consolas;
+	--text-normal: rgb(220, 221, 222);
+	--text-muted:  rgb(170, 171, 170);
+	--channels-width: 220px;
+	--members-width: 240px;
+
+	/* APP BACKGROUND */
+	--background-shading: 10%;
+	--background-overlay: rgba(0,0,0,0.6);
+	--background-image: url('https://i.imgur.com/bXaPLCt.jpg');
+	--background-position: center;
+	--background-size: cover;
+	--background-repeat: no-repeat;
+	--background-attachment: fixed;
+	--background-brightness: 100%;
+	--background-contrast: 100%;
+	--background-saturation: 100%;
+	--background-invert: 0%;
+	--background-grayscale: 0%;
+	--background-sepia: 0%;
+	--background-blur: 0px;
+	
+	/* HOME BUTTON ICON */
+	--home-icon: url('https://i.imgur.com/q5CwMqu.jpg');
+	--home-position: top center;
+	--home-size: 50px;
+	
+	/* CHANNEL COLORS */
+	--channel-unread: rgba(255,255,255,1);
+	--channel-color: rgba(255,255,255,1);
+  /*--channel-text-selected: #3D3B3B;*/
+	--muted-color: rgb(255,255,255,0.3);
+	
+	/* MODAL BACKDROP */
+	--backdrop-overlay: rgba(0,0,0,0.8);
+	--backdrop-image: var(--background-image);
+	--backdrop-position: var(--background-position);
+	--backdrop-size: var(--background-size);
+	--backdrop-repeat: var(--background-repeat);
+	--backdrop-attachment: var(--background-attachment);
+	--backdrop-brightness: var(--background-brightness);
+	--backdrop-contrast: var(--background-contrast);
+	--backdrop-saturation: var(--background-saturation);
+	--backdrop-invert: var(--background-invert);
+	--backdrop-grayscale: var(--background-grayscale);
+	--backdrop-sepia: var(--background-sepia);
+	--backdrop-blur: var(--background-blur);
+	
+	/* USER POPOUT BACKGROUND */
+	--user-popout-image: url('https://i.imgur.com/5hUDP7t.jpg');
+	--user-popout-position: center;
+	--user-popout-size: cover;
+	--user-popout-repeat: no-repeat;
+	--user-popout-attachment: scroll;
+	--user-popout-brightness: 100%;
+	--user-popout-contrast: 100%;
+	--user-popout-saturation: 100%;
+	--user-popout-invert: 0%;
+	--user-popout-grayscale: 0%;
+	--user-popout-sepia: var(--background-sepia);
+	--user-popout-blur: 0px;
+	--user-popout-overlay: rgba(0, 0, 0, .6);
+	
+	/* USER MODAL BACKGROUND */
+	--user-modal-image: url('https://i.imgur.com/9W1gH3v.jpg');
+	--user-modal-position: top left;
+	--user-modal-size: cover;
+	--user-modal-repeat: no-repeat;
+	--user-modal-attachment: scroll;
+	--user-modal-brightness: 100%;
+	--user-modal-contrast: 100%;
+	--user-modal-saturation: 100%;
+	--user-modal-invert: 0%;
+	--user-modal-grayscale: 0%;
+	--user-modal-sepia: var(--background-sepia);
+	--user-modal-blur: 0px;
+	
+	/* THEME BD COLORS */
+	--bd-blue: rgb(255, 255, 255);
+	--bd-blue-hover: rgb(170, 170, 170);
+	--bd-blue-active: rgb(170, 170, 170);
+}
